@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', '//localhost'),//http://localhost'
+    'url' => env('APP_URL', 'http://localhost'),
 
     /*
     |--------------------------------------------------------------------------
@@ -79,7 +79,7 @@ return [
     |
     */
 
-    'timezone' => env('APP_TIMEZONE', 'America/Guayaquil'),
+    'timezone' => env('APP_TIMEZONE', 'Asia/Kolkata'),
 
     /*
     |--------------------------------------------------------------------------
